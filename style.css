@@ -1,0 +1,18 @@
+#calcu{
+    background-color: antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+
+#field{
+    background-color: aqua;
+}
+table{
+ border: 1px solid #000;
+}
+th, td {
+    border: 1px solid #000;
+    
+}
+
